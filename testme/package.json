@@ -1,0 +1,19 @@
+{
+  "name": "testme",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "testme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "jsdom": "^24.1.0"
+  }
+}
